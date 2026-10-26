@@ -1,0 +1,14 @@
+D:\Codingan\F1Bella\Week4Exercise\Foobar\bin\Debug\net10.0\Foobar.exe
+D:\Codingan\F1Bella\Week4Exercise\Foobar\bin\Debug\net10.0\Foobar.deps.json
+D:\Codingan\F1Bella\Week4Exercise\Foobar\bin\Debug\net10.0\Foobar.runtimeconfig.json
+D:\Codingan\F1Bella\Week4Exercise\Foobar\bin\Debug\net10.0\Foobar.dll
+D:\Codingan\F1Bella\Week4Exercise\Foobar\bin\Debug\net10.0\Foobar.pdb
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\Foobar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\Foobar.AssemblyInfoInputs.cache
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\Foobar.AssemblyInfo.cs
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\Foobar.csproj.CoreCompileInputs.cache
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\Foobar.dll
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\refint\Foobar.dll
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\Foobar.pdb
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\Foobar.genruntimeconfig.cache
+D:\Codingan\F1Bella\Week4Exercise\Foobar\obj\Debug\net10.0\ref\Foobar.dll
