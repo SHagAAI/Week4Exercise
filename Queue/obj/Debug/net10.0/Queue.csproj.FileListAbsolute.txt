@@ -1,0 +1,15 @@
+D:\Codingan\F1Bella\Week4Exercise\Queue\bin\Debug\net10.0\Queue.exe
+D:\Codingan\F1Bella\Week4Exercise\Queue\bin\Debug\net10.0\Queue.deps.json
+D:\Codingan\F1Bella\Week4Exercise\Queue\bin\Debug\net10.0\Queue.runtimeconfig.json
+D:\Codingan\F1Bella\Week4Exercise\Queue\bin\Debug\net10.0\Queue.dll
+D:\Codingan\F1Bella\Week4Exercise\Queue\bin\Debug\net10.0\Queue.pdb
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\Queue.AssemblyInfoInputs.cache
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\Queue.AssemblyInfo.cs
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\Queue.csproj.CoreCompileInputs.cache
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\Queue.sourcelink.json
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\Queue.dll
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\refint\Queue.dll
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\Queue.pdb
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\Queue.genruntimeconfig.cache
+D:\Codingan\F1Bella\Week4Exercise\Queue\obj\Debug\net10.0\ref\Queue.dll
