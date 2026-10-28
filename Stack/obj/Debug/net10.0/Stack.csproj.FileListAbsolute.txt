@@ -1,0 +1,15 @@
+D:\Codingan\F1Bella\Week4Exercise\Stack\bin\Debug\net10.0\Stack.exe
+D:\Codingan\F1Bella\Week4Exercise\Stack\bin\Debug\net10.0\Stack.deps.json
+D:\Codingan\F1Bella\Week4Exercise\Stack\bin\Debug\net10.0\Stack.runtimeconfig.json
+D:\Codingan\F1Bella\Week4Exercise\Stack\bin\Debug\net10.0\Stack.dll
+D:\Codingan\F1Bella\Week4Exercise\Stack\bin\Debug\net10.0\Stack.pdb
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\Stack.AssemblyInfoInputs.cache
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\Stack.AssemblyInfo.cs
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\Stack.csproj.CoreCompileInputs.cache
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\Stack.sourcelink.json
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\Stack.dll
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\refint\Stack.dll
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\Stack.pdb
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\Stack.genruntimeconfig.cache
+D:\Codingan\F1Bella\Week4Exercise\Stack\obj\Debug\net10.0\ref\Stack.dll
