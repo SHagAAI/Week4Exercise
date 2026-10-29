@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{27805D3D-1602-4767-992D-7CB5AE81EFA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularQueue", "CircularQueue\CircularQueue.csproj", "{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{27805D3D-1602-4767-992D-7CB5AE81EFA8}.Release|x64.Build.0 = Release|Any CPU
 		{27805D3D-1602-4767-992D-7CB5AE81EFA8}.Release|x86.ActiveCfg = Release|Any CPU
 		{27805D3D-1602-4767-992D-7CB5AE81EFA8}.Release|x86.Build.0 = Release|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Debug|x64.Build.0 = Debug|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Debug|x86.Build.0 = Debug|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Release|x64.ActiveCfg = Release|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Release|x64.Build.0 = Release|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Release|x86.ActiveCfg = Release|Any CPU
+		{A7A11019-0B0E-4DF5-BD1C-E4EED0AEEBB0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
